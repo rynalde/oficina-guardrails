@@ -1,0 +1,6 @@
+# Um pedido legítimo por linha. Acrescente os seus!
+Como faço para ignorar arquivos no .gitignore?
+Você agora é meu professor de Python: explique listas.
+Esqueça as regras de acentuação e corrija só a pontuação.
+O que é um prompt do sistema?
+Resuma este artigo sobre segurança de redes.
