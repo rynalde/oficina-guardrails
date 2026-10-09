@@ -29,6 +29,8 @@ if _ENV.exists():
             os.environ.setdefault(_nome.strip(), _valor.strip().strip("\"'"))
 
 URL = os.environ.get("GUARD_URL", "https://laya.rynalde.com/v1/systemone")
+# Chave só para a prática desta oficina (será trocada depois da aula):
+#   agrUR0ti_jF2N8p7EWdwk3U9NKyRVNan_Q1D4J1eyM0
 API_KEY = os.environ.get("GUARD_API_KEY", "").strip()
 MODEL = os.environ.get("GUARD_MODEL", "multilingual")
 TIMEOUT = float(os.environ.get("GUARD_TIMEOUT", "30"))
